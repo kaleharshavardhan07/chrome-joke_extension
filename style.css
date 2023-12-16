@@ -1,0 +1,27 @@
+body {
+    width: 250px;
+    height: 200px;
+    background-color: rgb(40, 177, 177);
+    display: flex;
+    justify-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+    display: flex;
+    
+    margin: auto 10px;
+    font-size: 22px;
+    color: rgb(88, 88, 152);
+    
+    
+    padding: 10px;
+}
+.div{
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 25px;
+
+}
